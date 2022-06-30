@@ -1,5 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Animesh Roy</h1>
 
+ <img src = "https://github-readme-stats.vercel.app/api/?username=Animesh-roy100&count_private=true&theme=cobalt&showicons=true">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Animesh-roy100&langs_count=5&theme=cobalt">
 <!--
 **Animesh-roy100/Animesh-roy100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
