@@ -36,4 +36,3 @@
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
