@@ -5,10 +5,11 @@
 ### Hi there, I am Animesh Roy 👋
 [![Linkedin Badge](https://img.shields.io/badge/-animesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animesh74/)](https://www.linkedin.com/in/animesh74/)
 [![Gmail Badge](https://img.shields.io/badge/-royanimesh7478@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:royanimesh7478@gmail.com)](mailto:royanimesh7478@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-animesh-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_animesh_roy_)](https://twitter.com/_animesh_roy_)
 
 - 🎯 Portfolio website: [Portfolio]()
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it...
-- Show some &nbsp;❤️&nbsp; by starring some of the repositories!
+- &nbsp;❤️&nbsp; by starring some of the repositories!
 
 💻 **Things I love**
 - Frontend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -28,8 +29,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
-![JAVA](https://img.shields.io/badge/-JAVA-000000?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+![Java](https://img.shields.io/badge/-Java-000000?&logo=Java&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
