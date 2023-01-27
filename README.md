@@ -5,7 +5,6 @@
 ### Hi there, I am Animesh Roy 👋
 [![Linkedin Badge](https://img.shields.io/badge/-animesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animesh74/)](https://www.linkedin.com/in/animesh74/)
 [![Gmail Badge](https://img.shields.io/badge/-royanimesh7478@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:royanimesh7478@gmail.com)](mailto:royanimesh7478@gmail.com) 
-[![Twitter Badge](https://img.shields.io/badge/-animesh-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/_animesh_roy_)](https://twitter.com/_animesh_roy_)
 
 - 🎯 Portfolio website: [Portfolio]()
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it...
