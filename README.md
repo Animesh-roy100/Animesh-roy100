@@ -19,7 +19,7 @@
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width=400 height="auto" src="https://github-readme-stats.vercel.app/api?username=Animesh-roy100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-    <img align="right" width=400 height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=Animesh-roy100&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
+    <img width=400 height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=Animesh-roy100&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
     </a>
     
 🛠**Tech Stack**
