@@ -12,10 +12,8 @@
 - &nbsp;❤️&nbsp; by starring some of the repositories!
 
 💻 **Things I love**
-- Frontend Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Deep Learning ✍️
-- Machine Learning 🧐
-- Fullstack Development 😬
+- Fullstack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Machine Learning ✍️
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width=400 height="auto" src="https://github-readme-stats.vercel.app/api?username=Animesh-roy100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
