@@ -3,36 +3,18 @@
 
 
 
-### Hi there, I'm Animesh Roy 👋
-[![Linkedin Badge](https://img.shields.io/badge/-animesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/animesh74/)](https://www.linkedin.com/in/animesh74/)
-[![Gmail Badge](https://img.shields.io/badge/-royanimesh7478@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:royanimesh7478@gmail.com)](mailto:royanimesh7478@gmail.com) 
+<h1 align="center">Hi 👋, I'm Animesh Roy</h1>
+<h3 align="center">Full-Stack Developer | Building scalable systems with Go, Next.js, PostgreSQL, Docker, and Kubernetes, etc.</h3>
 
-- 🎯 Portfolio website: [Portfolio](https://animesh-roy100.github.io/portfolio/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it...
-- &nbsp;❤️&nbsp; by starring some of the repositories!
+- 📫 How to reach me **royanimesh7478@gmail.com**
 
-💻 **Things I love**
-- Fullstack Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Machine Learning ✍️
+- 📄 Know about my experiences [https://drive.google.com/file/d/1f7YG3YZEhlnkksGRfLnYXRi1XCtvr23d/view](https://drive.google.com/file/d/1f7YG3YZEhlnkksGRfLnYXRi1XCtvr23d/view)
 
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width=400 height="auto" src="https://github-readme-stats.vercel.app/api?username=Animesh-roy100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-    <img width=400 height="auto" src="https://github-readme-streak-stats.herokuapp.com?user=Animesh-roy100&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" /> 
-    </a>
-    
-🛠**Tech Stack**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/animesh74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="animesh74" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/animesh_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="animesh_roy" height="30" width="40" /></a>
+</p>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
-
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![Java](https://img.shields.io/badge/-Java-000000?&logo=Java&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
