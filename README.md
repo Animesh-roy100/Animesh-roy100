@@ -13,7 +13,7 @@ Full-Stack Developer | Building scalable systems with Go, Next.js, PostgreSQL, D
 - 📫 Reach me at **royanimesh7478@gmail.com**
 - 📄 View my Resume:  
   **[Resume](https://drive.google.com/file/d/1f7YG3YZEhlnkksGRfLnYXRi1XCtvr23d/view)**  
-- 🚀 Passionate about distributed systems, clean architecture & backend engineering  
+- 🚀 Passionate about distributed systems, clean architecture, domain-driven design & backend engineering  
 - 🌱 Currently exploring **system design**, **scalable databases**, and **cloud-native tools**  
 - 💡 I love building things end-to-end — from designing APIs to deploying microservices  
 
