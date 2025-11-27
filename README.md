@@ -1,5 +1,4 @@
 ![](Bottom_up.svg)
-<img align="right" src="https://github.com/Animesh-roy100/Animesh-roy100/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
 
